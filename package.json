@@ -1,6 +1,6 @@
 {
-	"author": "dick ass nigga team detah match",
 	"name": "fcc-learn-npm-package-json",
+	"author":"aziz",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
